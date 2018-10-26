@@ -1,5 +1,5 @@
+//this is a test
 import java.util.Scanner;
-import java.util.Arrays;
 public class CasinoMenu {//main menu class
 	
 	public static final Customer[] customerList = new Customer[100];//array for holding customers
