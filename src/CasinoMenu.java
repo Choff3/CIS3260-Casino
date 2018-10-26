@@ -1,4 +1,3 @@
-//this is a test
 import java.util.Scanner;
 public class CasinoMenu {//main menu class
 	
